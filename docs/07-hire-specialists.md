@@ -19,6 +19,10 @@ SpaceXAI 一侧的用法：销售外达、市场、办公室运营、修 bug，�
 | Expense Manager | 收据、入账、缺口 | 不付款、不改额度 |
 | Sales Outbound / Talent Scout（可选） | 名单、草稿、研究 | 队列停在「待你点发送」 |
 
+真实编制里还会再拆出「对外说话」的专家。ThursdAI 里 Shub 的 **Yapper** 只学他的短信 / Slack / 邮件口吻；House Hunter 找到房源后 @ Yapper 去问照片，Yapper 起草、发送、回传。口吻和找房是两件事，所以是两个职位。
+
+Alex 一侧能看见的名字：Chief of Staff、DeepSeek Drop Watch、ThursdAI Producer、Social Scheduler、Guest CRM EM、ThursdAI Site Fixer。Shub 一侧：House Hunter、Yapper、Sand Outreacher、Taskmaster、People Person、Here to Deescalate。名字都像岗位，不像 `helper-3`。
+
 新领域出现再雇，不要给老 bot 加头衔。拆分信号：
 
 - 你开始说「对了，你也顺便看一下招聘」

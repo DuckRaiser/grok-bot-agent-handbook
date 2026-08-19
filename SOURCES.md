@@ -18,7 +18,7 @@
 - 按 10 步拆成独立文档，每篇只回答：目标、做法、为什么重要、可套模板、反例。
 - 把章程、审批线、routine、周复盘抽到 `playbooks/`，方便复制。
 - 讲解用中文重写；提示词模板保持英文原文。
-- **没有**收录任何视频文件（包括 `source-podcast-720p.mp4`）。
+- 推文所挂约 31 分钟 ThursdAI 对谈已按笔记整理进 `docs/11-from-the-podcast.md` 和 `playbooks/housing-sweep.md`。**没有**收录视频文件本身。
 
 ## 版权
 
