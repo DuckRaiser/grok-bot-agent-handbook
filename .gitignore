@@ -1,0 +1,34 @@
+# media / binaries — do not commit the source video
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.m4v
+
+# archives and binaries
+*.zip
+*.tar
+*.gz
+*.tgz
+*.bz2
+*.7z
+*.rar
+*.exe
+*.dmg
+*.app
+*.bin
+*.so
+*.dylib
+*.o
+*.a
+*.dll
+*.wasm
+*.iso
+*.img
+
+# local junk
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
