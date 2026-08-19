@@ -31,7 +31,6 @@
 8. [把他们拉进群聊](docs/08-group-chat.md)
 9. [画清审批线](docs/09-approval-line.md)
 10. [每周复盘，狠删](docs/10-weekly-review.md)
-11. [播客里多出来的实操](docs/11-from-the-podcast.md)
 
 **可直接粘贴的 playbook**
 

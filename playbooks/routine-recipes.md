@@ -29,7 +29,14 @@ file them, and tell me anything that has no matching invoice.
 // the shortcut that creates most routines
 Run this every week.
  ^ said right after a task you liked. That's the whole flow.
+
+// schedule — overnight watch (swap the event)
+I know [THING] is about to drop. I'm going to sleep.
+In this Slack thread, tell people when it drops.
+Do not invent a link. If the URL later 404s, say what you saw and when.
 ```
+
+带硬数字的扫盘（每 N 小时、价格上限、不可伪造）见 [housing-sweep.md](housing-sweep.md)。
 
 ## 改之前先问自己
 

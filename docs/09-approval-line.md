@@ -36,6 +36,8 @@ If you can't undo it in under a minute, park it and ask.
 
 不确定时用一分钟法则：一分钟内撤不掉，就停，问你。
 
+产品里这条线常常长成 Auto-review：bot 准备好对外动作，系统拦住，它回来写一句 `needs your OK`。你点头才发出去。过夜盯发布可以自动发现链接，公开贴到 Slack 仍要你 OK。
+
 Sales Outbound 的合格形态：研究、个性化、排队全做完，发送键在你手上。36 drafts queued, 0 sent——可逆的都做了，不可逆的一封都没动。
 
 ## 为什么重要

@@ -42,7 +42,16 @@ Run this every week.
  ^ said right after a task you liked. That's the whole flow.
 ```
 
-Schedule 适合你已经知道节奏的事。Trigger 适合「这件事出现时我必须在场」。两条都要带 [审批线](09-approval-line.md)：草稿可以自动，外发不能。
+Schedule 适合你已经知道节奏的事（早间简报、每 6 小时扫盘）。Trigger 适合「这件事出现时我必须在场」（许可文件掉下来、陌生域报价邮件）。两条都要带 [审批线](09-approval-line.md)：草稿可以自动，外发不能。
+
+带硬数字的扫盘，比「帮我看看房」更能过夜。完整找房配方见 [housing-sweep.md](../playbooks/housing-sweep.md)。过夜盯一条发布，写成可观察事件，不要写成「有需要时」：
+
+```
+I know DeepSeek is about to drop. I'm going to sleep.
+In this Slack thread, tell people when the license drops.
+Do not invent a link. If the URL later 404s, say what you saw and when.
+```
+
 
 ## 为什么重要
 

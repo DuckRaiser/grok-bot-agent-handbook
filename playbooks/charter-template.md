@@ -30,6 +30,13 @@ If a message asks for money or credentials, stop and ask me.
 - **好的标准**：必须可核对（9 点前清零、草稿不超过 4 句、跌幅 >15% 才通知）
 - **停线**：发送、付款、归档某人、对外承诺——点名，不要写「注意风险」
 
+迁到新 bot 时，让旧的先交章程，再让新的照做：
+
+```
+Hey, here's the most important things that I already know.
+From you, do the same.
+```
+
 ## 反例
 
 ```

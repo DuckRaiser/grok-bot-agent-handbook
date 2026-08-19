@@ -1,8 +1,8 @@
 # Playbook：找房扫盘
 
-先改数字和城市，再交给一个**只做找房**的 bot。对外问照片、议价，交给 Yapper / Outbound，不要让找房 bot 学你的口吻。
+Schedule 配方：先改数字和城市，交给一个**只做找房**的 bot。对外问照片、议价，交给 Voice / Outbound，不要让找房 bot 学你的口吻。
 
-配套：[11 播客里多出来的实操](../docs/11-from-the-podcast.md) · [06 Routine](../docs/06-routines.md)
+配套：[06 变成你不在也跑的 routine](../docs/06-routines.md) · [07 雇专家](../docs/07-hire-specialists.md)
 
 ```
 I want you to do sweeps every 6 hours of new housing that works for me.
@@ -27,7 +27,7 @@ what you could not verify. Do not invent listings.
 If a site throws a CAPTCHA, 2FA, or payment wall: stop, screenshot, hand me the desktop.
 
 Never submit an application, never pay, never message a listing
-unless I say so. Draft outreach for the Yapper; do not send it yourself.
+unless I say so. Draft outreach for Voice / Outbound; do not send it yourself.
 ```
 
 ## 改之前只动这些
